@@ -32,7 +32,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "mcpName": "io.github.pooriaarab/agentic-whatsapp",
+  "mcpName": "io.github.itsryanarmani/agentic-whatsapp",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "exports": {
